@@ -10,4 +10,5 @@ dependencies = [
     "langchain-community>=0.3.21",
     "langchain-gigachat>=0.3.10",
     "langgraph>=0.3.30",
+    "redis>=5.2.1",
 ]
