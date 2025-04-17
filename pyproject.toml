@@ -9,4 +9,5 @@ dependencies = [
     "langchain>=0.3.23",
     "langchain-community>=0.3.21",
     "langchain-gigachat>=0.3.10",
+    "langgraph>=0.3.30",
 ]
